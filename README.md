@@ -5,6 +5,8 @@
 - Anan Maulana Rafi - 13182420123
 - Reysa Arjuna Fathan Adabi - 13182420098
 - Muhammad Fariz Fadhillah - 13182420116
- 
-Anjema adalah platform layanan transportasi berbasis web yang dirancang khusus untuk memenuhi kebutuhan mobilisasi mahasiswa dalam lingkungan kampus dan sekitarnya.
+  
+## Deskripsi Proyek:
+ANJEMA (Antar Jemput Mahasiswa)
+ANJEMA adalah platform berbasis web yang dirancang khusus untuk memfasilitasi kebutuhan transportasi harian di lingkungan perguruan tinggi. Aplikasi ini berfungsi sebagai penghubung antara mahasiswa yang memiliki kendaraan pribadi (sebagai pemberi tebengan) dengan mahasiswa lain yang membutuhkan sarana transportasi menuju atau dari kampus.
   
